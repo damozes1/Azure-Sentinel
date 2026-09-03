@@ -9133,7 +9133,7 @@
       "MicrosoftDefenderForOffice365detectionsandinsightsblack.png"
     ],
     "version": "4.0.0",
-    "title": "Microsoft Defender for Office 365 Detection and Insights",
+    "title": "Microsoft Defender for Office 365 Detections and Insights",
     "templateRelativePath": "MicrosoftDefenderForOffice365detectionsandinsights.json",
     "subtitle": "",
     "provider": "Microsoft"

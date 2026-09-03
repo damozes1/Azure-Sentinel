@@ -92,7 +92,8 @@
               "durationMs": 86400000
             },
             "queryType": 1,
-            "resourceType": "microsoft.resourcegraph/resources"
+            "resourceType": "microsoft.resourcegraph/resources",
+            "value": ""
           },
           {
             "id": "2e238f92-709c-410b-93e0-60eab6150a75",
@@ -15302,8 +15303,6 @@
     }
   ],
   "isLocked": true,
-  "fallbackResourceIds": [
-    "Azure Monitor"
-  ],
-  "fromTemplateId": "sentinel-UserWorkbook"
+  "fallbackResourceIds": [],
+  "fromTemplateId": "sentinel-MicrosoftDefenderForOffice365detectionsandinsights"
 }
